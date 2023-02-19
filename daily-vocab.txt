@@ -198,7 +198,10 @@ bout = a short period of great activity
 frown = ऐसे क्रोध प्रदर्शित करना कि माथे पर रेखाएँ दिखाई देने लगें; भौंहें तन जाना, त्‍योरी चढ़ना
 shrug = कंधे उचकाना (‘Who knows?’ he said and shrugged.)
 tip-off = (पुलिस आदि को प्राप्‍त) गुप्‍त सूचना (संभावित अपराध के विषय में)
-rift = दरार
+rift = दरार 
+
+
+Test text
 
 
 
